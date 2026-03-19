@@ -10,7 +10,7 @@ Initially created for assignment 1 of COMP1236 but maybe this will get used in t
 ## Schedule
 
 - Monday
-  1. 9 AM - Comp1236 -
+  1. 9 AM - Comp1236 
   2. 11 AM - Comp1151
   3. 3 PM - Comp 1234
 - Tuesday
